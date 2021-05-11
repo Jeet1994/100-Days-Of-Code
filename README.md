@@ -11,4 +11,7 @@
 | 9    | [Color Mixer](https://github.com/Jeet1994/100-Days-Of-Code/tree/main/9) | Javascript      | WIP           | ✔       | ⭐️          |
 | 10   | [SVM](https://github.com/Jeet1994/100-Days-Of-Code/tree/main/10) | Python          | WIP           | ✔       | ⭐️⭐️         |
 | 11   | [K-NN](https://github.com/Jeet1994/100-Days-Of-Code/tree/main/11) | Python          | WIP           | ✔       | ⭐️⭐️         |
+| 12   | [Learning ggplot](https://github.com/Jeet1994/100-Days-Of-Code/tree/main/12) | R          | WIP           | ✔       | ⭐️⭐️⭐️         |
+| 13   | [Getting started with Rust](https://github.com/Jeet1994/100-Days-Of-Code/tree/main/13) | Rust          | WIP           | ✔       | ⭐️⭐️⭐️         |
+| 14   | [CLI based Todo App using Rust](https://github.com/Jeet1994/100-Days-Of-Code/tree/main/14) | Rust          | WIP           | ✔       | ⭐️⭐️⭐️⭐️         |
 
