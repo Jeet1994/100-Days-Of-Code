@@ -14,4 +14,6 @@
 | 12   | [Learning ggplot](https://github.com/Jeet1994/100-Days-Of-Code/tree/main/12) | R          | WIP           | ✔       | ⭐️⭐️⭐️         |
 | 13   | [Getting started with Rust](https://github.com/Jeet1994/100-Days-Of-Code/tree/main/13) | Rust          | WIP           | ✔       | ⭐️⭐️⭐️         |
 | 14   | [CLI based Todo App using Rust](https://github.com/Jeet1994/100-Days-Of-Code/tree/main/14) | Rust          | WIP           | ✔       | ⭐️⭐️⭐️⭐️         |
+| 15   | [Identifying deceitful reviews-NLP](https://github.com/Jeet1994/100-Days-Of-Code/tree/main/15) | R          | WIP           | ✔       | ⭐️⭐️⭐️⭐️⭐️         |
+| 16   | [GGVIS dynamic plots generation](https://github.com/Jeet1994/100-Days-Of-Code/tree/main/16) | R          | WIP           | ✔       | ⭐️⭐️⭐️         |
 
