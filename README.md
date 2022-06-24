@@ -16,4 +16,9 @@
 | 14   | [CLI based Todo App using Rust](https://github.com/Jeet1994/100-Days-Of-Code/tree/main/14) | Rust          | WIP           | ✔       | ⭐️⭐️⭐️⭐️         |
 | 15   | [Identifying deceitful reviews-NLP](https://github.com/Jeet1994/100-Days-Of-Code/tree/main/15) | R          | WIP           | ✔       | ⭐️⭐️⭐️⭐️⭐️         |
 | 16   | [GGVIS dynamic plots generation](https://github.com/Jeet1994/100-Days-Of-Code/tree/main/16) | R          | WIP           | ✔       | ⭐️⭐️⭐️         |
-
+| 17   | [Functional Data Analysus](https://github.com/Jeet1994/100-Days-Of-Code/tree/main/17) | R          | WIP           | ✔       | ⭐️⭐️⭐️         |
+| 18   | [JSON PARSER](https://github.com/Jeet1994/100-Days-Of-Code/tree/main/18) | Python          | WIP           | ✔       | ⭐️⭐️⭐️         |
+| 19   | [Dplyr Analysis](https://github.com/Jeet1994/100-Days-Of-Code/tree/main/19) | R          | WIP           | ✔       | ⭐️⭐️⭐️         |
+| 20   | [Fuzzy Logic Implementation](https://github.com/Jeet1994/100-Days-Of-Code/tree/main/20) | R          | WIP           | ✔       | ⭐️⭐️⭐️         |
+| 21   | [TensorFlow Neural Nets](https://github.com/Jeet1994/100-Days-Of-Code/tree/main/21) | Python          | WIP           | ✔       | ⭐️⭐️⭐️         |
+| 22   | [Real Life Project Data Analysis](https://github.com/Jeet1994/100-Days-Of-Code/tree/main/22) | Python          | WIP           | ✔       | ⭐️⭐️⭐️         |
